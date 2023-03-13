@@ -2,7 +2,7 @@
 
 # A HTML based webpage using form elements :page_with_curl:
 
-## Concepts applied (but not limited too)
+## Concepts applied (*but not limited too*)
 
 - ### labels for inputs fields
 - ### required attribute
